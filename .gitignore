@@ -19,3 +19,5 @@ dataset/cifar-10-batches-py/
 dataset/augmented_data/
 dataset/processed_data/
 dataset/imbalance_data/
+basics/runs/
+basics/runs/*
